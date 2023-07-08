@@ -129,7 +129,7 @@ int main(){
 
     //creating new node
     Node* node1= new Node(56);
-
+    
     // cout<<node1->data<<endl;
     // cout<<node1->next<<endl;
 
