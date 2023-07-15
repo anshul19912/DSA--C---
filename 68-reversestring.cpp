@@ -15,7 +15,7 @@ int main(){
     while(!st.empty()){
         ans.push_back(st.top());
         st.pop();
-        st.
+        
     }
 
     cout<<"Reverse is: "<<ans<<endl;
