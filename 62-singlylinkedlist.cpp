@@ -12,16 +12,7 @@ class Node{
         this -> next = NULL;
     }
 
-    //destructor
-    // ~Node(){
-    //     int value = this-> data;
-    //     //memory free
-    //     if(this-> next != NULL){
-    //         delete next;
-    //         this-> next = NULL;
-    //     }
-    //     cout<<"Memory is free for node with data"<<value<<endl;
-    // }
+
 };
 
 void insertAtHead(Node* &head, int d){

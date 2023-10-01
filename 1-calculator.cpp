@@ -22,7 +22,7 @@ int main(){
                  break;
         case '%': cout<<n1%n2<<endl;
                  break;
-        default : cout<<"Please enter a valid opeartion"<<endl;
+        default : cout<<"Please enter a valid operation"<<endl;
     }
 
 

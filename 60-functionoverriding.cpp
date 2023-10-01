@@ -30,6 +30,7 @@ int main() {
 
     Dog obj;
     obj.speak();
+    obj.Animal:: speak();
 
 
     return 0;
